@@ -1,2 +1,4 @@
-# introducao_bootstrap
- Integrando Bootstrap ao HTML e CSS
+# Introdução ao Bootstrap
+
+- Integrando Bootstrap ao HTML e CSS
+- Explorando 'div' em colunas
