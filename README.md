@@ -1,5 +1,3 @@
-- Explorando 'div' em colunas
-
 <p align="center"><img src="./files/img-repo.png" width="600"></p>
 <p align="center">✅<a href="https://andreadcsousa.github.io/dio_introducao_bootstrap/"> Veja a Página </a>✅<a href="https://github.com/andreadcsousa"> Meu Perfil </a>✅<a href="https://andreadcsousa.github.io/"> Projetos </a></p>
 
@@ -7,7 +5,7 @@
 
 A partir do curso de `Construindo páginas para internet com Bootstrap`, aprendi a integrar o framework Bootstrap ao HTML5 e CSS3..
 
-No curso, foi abordado o que é e para que serve o Bootstrap, além de como utilizá-lo em uma página web, a partir da criação de containers personlizados para o site. Foi possível trabalhar com imagens dentro dos containers, criar lista de navegação com imagens no projeto e, também nos containers.
+No curso, foi abordado o que é e para que serve o Bootstrap, além de como utilizá-lo em uma página web, a partir da criação de containers personlizados para o site, explorando as <em>divs</em> em colunas. Foi possível trabalhar com imagens dentro dos containers, criar lista de navegação com imagens no projeto e, também nos containers.
 
 # Linguagens Utilizadas
 
