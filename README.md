@@ -15,8 +15,7 @@ No curso, foi abordado o que é e para que serve o Bootstrap, além de como util
 
 Cores com alto contraste para diferenciar as divs | Imagens utilizadas do curso
 
-<img src="./files/antes.jpg" width="100%">
-<img src="./files/antes2.jpg" width="100%">
+<img src="./files/antes.jpg" width="100%"><img src="./files/antes2.jpg" width="100%">
 
 ## Versão Atual
  
